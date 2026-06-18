@@ -86,7 +86,7 @@ Features:
 
 ### 📫 Contact
 
-* LinkedIn: [www.linkedin.com/in/eduardo-gomez-dev](http://www.linkedin.com/in/eduardo-gomez-dev)
+* LinkedIn: [www.linkedin.com/in/eduardo-gomez-dev](https://www.linkedin.com/in/eduardo-dami%C3%A1n-g%C3%B3mez-89a432217/)
 * Portfolio: eduardo-gomez-portfolio.vercel.app
 
 ---
